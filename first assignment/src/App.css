@@ -1,0 +1,11 @@
+@import "tailwindcss";
+/* .signup{
+    background-color: rgb(124, 145, 215);
+}
+.signup_full{
+    background-color: rgb(142, 52, 52);
+} */
+ .bg{
+    background-color: rgb(126, 201, 224);
+    /* height: 100%; */
+ }

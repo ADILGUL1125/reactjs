@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: uppercase;
+         font-family: 'Courier New', Courier, monospace;
+         
+
+}
+.bg{
+     background: linear-gradient(to right, rgb(172, 172, 248), rgb(161, 243, 161));
+}
